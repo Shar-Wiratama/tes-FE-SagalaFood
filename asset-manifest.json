@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tes-FE-SagalaFood/static/css/main.e6c13ad2.css",
+    "main.js": "/tes-FE-SagalaFood/static/js/main.872eb504.js",
+    "static/js/453.fadc3cd2.chunk.js": "/tes-FE-SagalaFood/static/js/453.fadc3cd2.chunk.js",
+    "index.html": "/tes-FE-SagalaFood/index.html",
+    "main.e6c13ad2.css.map": "/tes-FE-SagalaFood/static/css/main.e6c13ad2.css.map",
+    "main.872eb504.js.map": "/tes-FE-SagalaFood/static/js/main.872eb504.js.map",
+    "453.fadc3cd2.chunk.js.map": "/tes-FE-SagalaFood/static/js/453.fadc3cd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.872eb504.js"
+  ]
+}
